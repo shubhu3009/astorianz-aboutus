@@ -264,7 +264,7 @@ footer hr {
 		margin-top: 45em;
 	}
 }
-@media (max-width: 600px)
+@media (min-width: 401px) and (max-width: 600px)
 {
 	.containerabout #circle{
 		height: 10em;
