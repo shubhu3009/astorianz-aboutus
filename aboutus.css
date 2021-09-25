@@ -294,7 +294,7 @@ footer hr {
 		top: 335%;
 	}
 	footer {
-		margin-top: 85em;
+		margin-top: 90em;
 	}
 }
 @media (max-width: 400px)
@@ -340,7 +340,7 @@ footer hr {
 		font-size: 10px;
 	}
 	footer {
-		margin-top: 60em;
+		margin-top: 80em;
 	}
 }
 /*@media (max-width: 600px)
